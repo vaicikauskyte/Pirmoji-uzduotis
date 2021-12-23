@@ -3,3 +3,6 @@
 
 # v0.2
 Šioje versijoje duomenys paimami ir išvedami į failą. Galutinis pažymys išvedamas ir pagal vidurkį, ir pagal medianą.
+
+# v0.3
+Šioje versijoje sukuriami antraštiniai failai.
